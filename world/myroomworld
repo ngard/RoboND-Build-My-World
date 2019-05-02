@@ -3705,6 +3705,7 @@
       <static>0</static>
       <allow_auto_disable>1</allow_auto_disable>
       <pose frame=''>0.084693 -1.73433 0 0 -0 0</pose>
+      <plugin name="model_push" filename="libmodel_push.so"/>
     </model>
     <model name='prius_hybrid_sensors'>
       <link name='prius_hybrid::chassis'>
